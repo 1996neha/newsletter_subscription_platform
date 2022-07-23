@@ -1,6 +1,6 @@
-## Build a newsletter subscriptions platform
+## Build a Newsletter Subscriptions Platform
 
-Problem statement:
+Problem Statement:
 You have come up with an idea to build a newsletter subscription platform. Users can subscribe to monthly newsletters on your platform. (Rest API)
 
 We have 3 entities:
