@@ -1,4 +1,4 @@
-##Build a newsletter subscriptions platform
+## Build a newsletter subscriptions platform
 
 Problem statement:
 You have come up with an idea to build a newsletter subscription platform. Users can subscribe to monthly newsletters on your platform. (Rest API)
@@ -49,10 +49,5 @@ Sample response:
 ]
 }
 
-Guidelines
-
-
-
-Write 1-2 sample unit test cases - no need to be exhaustive.
 
 
